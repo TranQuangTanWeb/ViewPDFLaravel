@@ -1,5 +1,5 @@
 # ViewPDFLaravel
-Tạo view PDF trong Laravel
+Tạo view PDF trong Laravel 5.6.35
 
 - Clone project: git clone https://github.com/TranQuangTanWeb/ViewPDFLaravel.git
 - cd ViewPDFLaravel
