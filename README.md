@@ -1,7 +1,7 @@
 # ViewPDFLaravel
 Tạo view PDF trong Laravel
 
-- Clone project: git clone https://github.com/TranQuangTanWeb/ViewPDFLaravel
+- Clone project: git clone https://github.com/TranQuangTanWeb/ViewPDFLaravel.git
 - cd ViewPDFLaravel
 - composer install
 - Copy .env.example to .env:<br/>
