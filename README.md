@@ -5,7 +5,7 @@ Tạo view PDF trong Laravel
 - cd ViewPDFLaravel
 - composer install
 - Copy .env.example to .env:<br/>
- Windows: copy .env.example .env
-       Ubuntu: cp .env.example .env
+ Windows: copy .env.example .env<br/>
+ Ubuntu: cp .env.example .env
 - Run: php artisan key:generate
 - Run: php artisan serve
